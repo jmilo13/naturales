@@ -167,6 +167,13 @@ p {
   list-style: none;
   padding: 0;
 }
+.down-icon {
+  display: block;
+  height: 3rem;
+  width: 3rem;
+  margin: 1rem auto;
+  background: url(./images/down-arrow.png) center/cover no-repeat;
+}
 
 @media (max-width: 700px) {
   .first-section__type-states,
